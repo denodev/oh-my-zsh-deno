@@ -1,4 +1,4 @@
-# oh-my-zsh Deno plugin
+# oh-my-zsh deno plugin
 
 > The oh-my-zsh-deno plugin provides completion as well as adding many useful aliases.
 
