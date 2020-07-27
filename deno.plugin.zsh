@@ -24,6 +24,9 @@ alias denof="deno fmt"
 # Install script as an executable
 alias denoi="deno install"
 
+# Lint source files
+alias denol="deno lint"
+
 # Run a program given a filename or url to the module
 alias denor="deno run"
 

@@ -33,6 +33,7 @@ source ~/.zshrc
 | `denoe`  | `deno eval`     | Eval script                                                                  |
 | `denof`  | `deno fmt`      | Format source files                                                          |
 | `denoi`  | `deno install`  | Install script as an executable                                              |
+| `denol`  | `deno lint`     | Lint source files                                                            |
 | `denor`  | `deno run`      | Run a program given a filename or url to the module                          |
 | `denot`  | `deno test`     | Run tests                                                                    |
 | `denoup` | `deno upgrade`  | Upgrade deno executable to newest version                                    |
